@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">👋 Hi! , I'm Few.</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -91,6 +91,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
